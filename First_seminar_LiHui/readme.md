@@ -1,5 +1,5 @@
 # 这是遥感AI讨论班的首次讨论内容
 -----------------------------
 李辉同学主要从一下四个方面给我们介绍了遥感AI的内容
-![替代文本](/E:/Aircas/GitHub/RS_AI_Discussion/First_seminar_LiHui/Snipaste_2023-12-22_20-20-48.png")
+![替代文本](/E:/Aircas/GitHub/RS_AI_Discussion/First_seminar_LiHui/Snipaste_2023-12-22_20-20-48.png)
 
