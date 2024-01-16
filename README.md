@@ -27,7 +27,7 @@
 #### 📘ESCNet: An End-to-End Superpixel-Enhanced Change Detection Network for Very-High-Resolution Remote Sensing Images[<em> IEEE TRANSACTIONS ON NEURAL NETWORKS AND LEARNING SYSTEMS</em> (2021)]
 
 [Paper](https://ieeexplore.ieee.org/document/9474911) |  [Github Code]( https://github.com/Bobholamovic/ESCNet)
-#### 📘A deeply supervised image fusion network for change detection in high resolution bi-temporal remote sening images[<em> IEEE TRANSACTIONS ON NEURAL NETWORKS AND LEARNING SYSTEMS</em> (2021)]
+#### 📘A deeply supervised image fusion network for change detection in high resolution bi-temporal remote sening images[<em> IEEE TRANSACTIONS ON NEURAL NETWORKS AND LEARNING SYSTEMS</em> (2020)]
 
 [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0924271620301532?via%3Dihub) |  [Github Code](https://github.com/GeoZcx/A-deeply-supervised-image-fusion-network-for-change-detection-in-remote-sensing-images) 
 ### 建筑物高度识别
