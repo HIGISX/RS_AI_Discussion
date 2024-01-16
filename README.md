@@ -15,6 +15,14 @@
 ### 语义分割
 
 ### 变化检测
+#### 📘Remote Sensing Image Change Detection With Transformers[<em> IEEE Transactions on Geoscience and Remote Sensing</em>(2021)]
 
+[Paper](https://ieeexplore.ieee.org/document/9491802) |  [Github Code](https://github.com/justchenhao/BIT_CD) 
+#### 📘A Spatial-Temporal Attention-Based Method and a New Dataset for Remote Sensing Image Change Detection[<em>Computational Intelligence and Advanced Learning Techniques in Remote Sensing</em> (2020)]
+
+[Paper](https://www.mdpi.com/2072-4292/12/10/1662) |  [Github Code](https://github.com/justchenhao/STANet) 
+#### 📘Deep building footprint update network: A semi-supervised method for updating existing building footprint from bi-temporal remote sensing images[<em>Remote Sensing of Environment</em> (2021)]
+
+[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0034425721003096) |  [Github Code]( https://github.com/HaonanGuo/SG-EPUNet) 
 ### 建筑物高度识别
 
