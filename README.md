@@ -1,5 +1,5 @@
 # <h1 align="center">遥感AI讨论班
-#### :alarm_clock:欢迎加入我们的遥感AI讨论班！这是一个致力于探讨遥感与人工智能技术相结合等热门话题的小组。
+### :alarm_clock:欢迎加入我们的遥感AI讨论班！这是一个致力于探讨遥感与人工智能技术相结合等热门话题的小组。
 ## 文献整理
 ### 目标识别
 #### 📘ISNet: Towards Improving Separability for Remote Sensing Image Change Detection[<em>IEEE Transactions on Geoscience and Remote Sensing</em>(2022)]
