@@ -43,4 +43,7 @@
 
 [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0924271620301532?via%3Dihub) |  [Github Code](https://github.com/GeoZcx/A-deeply-supervised-image-fusion-network-for-change-detection-in-remote-sensing-images) 
 ### 建筑物高度识别
+#### 📘A Deep Learning Method For Building Height Estimation Using High-Resolution Multi-View Imagery Over Urban Areas: A Case Study Of 42 Chinese Cities
+
+[Paper](https://www.sciencedirect.com/science/article/abs/pii/S003442572103102) | [Github Code](https://github.com/lauraset/BuildingHeightModel?utm_source=catalyzex.com)
 
