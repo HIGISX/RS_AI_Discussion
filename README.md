@@ -49,3 +49,6 @@
 #### 📘HTC-DC Net: Monocular Height Estimation from Single Remote Sensing Images[<em>EEE Transactions on Geoscience and Remote Sensing</em> (2023)]
 
 [Paper](https://arxiv.org/pdf/2309.16486v1.pdf) | [Github Code](https://github.com/zhu-xlab/htc-dc-net)
+#### 📘National-scale mapping of building height using Sentinel-1 and Sentinel-2 time series[<em> Remote Sensing of Environment</em> (2021)]
+
+[Paper](https://www.sciencedirect.com/science/article/pii/S0034425720305010) | [Github Code](https://github.com/TUW-GEO/Equi7Grid)
