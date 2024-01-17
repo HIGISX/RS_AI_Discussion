@@ -45,5 +45,5 @@
 ### 建筑物高度识别
 #### 📘A Deep Learning Method For Building Height Estimation Using High-Resolution Multi-View Imagery Over Urban Areas: A Case Study Of 42 Chinese Cities
 
-[Paper](https://www.sciencedirect.com/science/article/abs/pii/S003442572103102) | [Github Code](https://github.com/lauraset/BuildingHeightModel?utm_source=catalyzex.com)
+[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0034425721003102) | [Github Code](https://github.com/lauraset/BuildingHeightModel?utm_source=catalyzex.com)
 
