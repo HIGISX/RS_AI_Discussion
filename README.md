@@ -13,6 +13,18 @@
 [Paper](https://ieeexplore.ieee.org/abstract/document/9355573) |  [Github Code](https://github.com/likyoo/Siam-NestedUNet) 
 
 ### 语义分割
+#### 📘Swin Transformer Embedding UNet for Remote Sensing Image Semantic Segmentation[<em>IEEE Transactions on Geoscience and Remote Sensing</em>(2022)]
+
+[Paper](https://ieeexplore.ieee.org/document/9686686) | [Github Code](https://github.com/XinnHe/ST-UNet)
+#### 📘SCAttNet: Semantic Segmentation Network With Spatial and Channel Attention Mechanism for High-Resolution Remote Sensing Images[<em>IEEE Geoscience and Remote Sensing Letters</em>(2020)]
+
+[Paper](https://ieeexplore.ieee.org/document/9081937) | [Github Code](https://github.com/lehaifeng/SCAttNet)
+#### 📘MAP-Net: Multiple Attending Path Neural Network for Building Footprint Extraction From Remote Sensed Imagery[<em> IEEE Transactions on Geoscience and Remote Sensing </em>(2020)]
+
+[Paper](https://ieeexplore.ieee.org/document/9212557) | [Github Code](https://github.com/lehaifeng/MAPNet)
+#### 📘UNetFormer: A UNet-like transformer for efficient semantic segmentation of remote sensing urban scene imagery[<em>ISPRS Journal of Photogrammetry and Remote Sensing</em>(2022)]
+
+[Paper](https://doi.org/10.1016/j.isprsjprs.2022.06.008) | [Github Code](https://github.com/WangLibo1995/GeoSeg)
 
 ### 变化检测
 #### 📘Remote Sensing Image Change Detection With Transformers[<em> IEEE Transactions on Geoscience and Remote Sensing</em>(2021)]
