@@ -43,7 +43,9 @@
 
 [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0924271620301532?via%3Dihub) |  [Github Code](https://github.com/GeoZcx/A-deeply-supervised-image-fusion-network-for-change-detection-in-remote-sensing-images) 
 ### 建筑物高度识别
-#### 📘A Deep Learning Method For Building Height Estimation Using High-Resolution Multi-View Imagery Over Urban Areas: A Case Study Of 42 Chinese Cities
+#### 📘A Deep Learning Method For Building Height Estimation Using High-Resolution Multi-View Imagery Over Urban Areas: A Case Study Of 42 Chinese Cities[<em> Remote Sensing of Environment</em> (2021)]
 
 [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0034425721003102) | [Github Code](https://github.com/lauraset/BuildingHeightModel?utm_source=catalyzex.com)
+#### 📘HTC-DC Net: Monocular Height Estimation from Single Remote Sensing Images[<em>EEE Transactions on Geoscience and Remote Sensing</em> (2023)]
 
+[Paper](https://arxiv.org/pdf/2309.16486v1.pdf) | [Github Code](https://github.com/zhu-xlab/htc-dc-net)
