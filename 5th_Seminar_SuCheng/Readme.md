@@ -1,4 +1,6 @@
-基于AI的遥感影像变化监测
-
-![image](https://github.com/HIGISX/RS_AI_Discussion/assets/131509004/0838a1e4-b842-47b4-a842-08c8c4bd598e)
+# 主要从遥感影像的变化监测方面进行介绍
+*****
+[会放链接] (https://meeting.tencent.com/v2/cloud-record/share?id=b24a35f7-f8d5-4e39-80c8-1c548555caf9&from=3)| 
+*****
+![image]()
 
