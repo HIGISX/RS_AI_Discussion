@@ -2,6 +2,16 @@
 ### :confetti_ball:欢迎加入我们的遥感AI讨论班！这是一个致力于探讨遥感与人工智能技术相结合等热门话题的小组。
 ## 文献整理
 ### 目标识别
+#### 📘Blurry dense object extraction based on buffer parsing network for high-resolution satellite remote sensing imagery[<em>ISPRS Journal of Photogrammetry and Remote Sensing</em>(2024)]
+
+[Paper](https://www.sciencedirect.com/science/article/pii/S092427162300312X?via%3Dihub) |  [Github Code]( https://github.com/Dingyuan-Chen/BPNet) 
+#### 📘Generalized few-shot object detection in remote sensing images[<em>ISPRS Journal of Photogrammetry and Remote Sensing</em>(2022)]
+
+[Paper](https://www.sciencedirect.com/science/article/pii/S0924271622003197?via%3Dihub) |  [Github Code](https://github.com/RSer-XDU/G-FSDet) 
+#### 📘Scribble-based boundary-aware network for weakly supervised salient object detection in remote sensing images[<em>ISPRS Journal of Photogrammetry and Remote Sensing</em>(2022)]
+
+[Paper](https://www.sciencedirect.com/science/article/pii/S0924271622001927?via%3Dihub) |  [Github Code](https://github.com/ZhouHuang23/SBA-Net) 
+
 #### 📘ISNet: Towards Improving Separability for Remote Sensing Image Change Detection[<em>IEEE Transactions on Geoscience and Remote Sensing</em>(2022)]
 
 [Paper](https://ieeexplore.ieee.org/abstract/document/9772654) |  [Github Code](https://github.com/xingronaldo/ISNet) 
